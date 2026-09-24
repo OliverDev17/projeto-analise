@@ -26,7 +26,7 @@ projeto_analise/
 Clone o repositório:
 
 bash
-git clone https://github.com/seuusuario/projeto-analise.git
+git clone https://github.com/OliverDev17/projeto-analise.git
 cd projeto-analise
 Crie e ative um ambiente virtual:
 
